@@ -210,6 +210,14 @@ hr.small {
     opacity: 0.8;
 }
 
+.img-circle {
+    border-radius: 50%;
+}
+
+.img-circle:hover {
+    opacity: 0.8;
+}
+
 /* Call to Action */
 
 .call-to-action {
